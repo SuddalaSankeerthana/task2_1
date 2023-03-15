@@ -1,4 +1,4 @@
-class Animal:
+class cat:
     def eat(self):
         print("I can Eat")
 
@@ -7,12 +7,5 @@ class Animal:
 
     def sound(self):
         print("I can Sound")
-
     def run(self):
         print("I can Run")
-
-    def fly(self):
-        print("I can Fly")
-
-    def swim(self):
-        print("I can Swim")
