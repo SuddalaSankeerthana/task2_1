@@ -1,9 +1,9 @@
-# class Animal:
-#     def eat(self):
-#         print("I can Eat")
+ class Animal:
+     def eat(self):
+         print("I can Eat")
 
-#     def sleep(self):
-#         print("I can Sleep")
+     def sleep(self):
+         print("I can Sleep")
 
 #     def sound(self):
 #         print("I can Sound")
